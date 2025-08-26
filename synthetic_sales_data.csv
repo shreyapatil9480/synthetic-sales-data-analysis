@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,CustomerSegment,ProductCategory,UnitCost,UnitPrice,UnitsSold,MarketingSpend,Profit
+1,2023-04-13,South,Home Office,Food,10.24,14.63,25,399.56,-289.81
+2,2024-03-11,North,Corporate,Food,20.5,29.68,33,419.74,-116.8
+3,2023-09-28,North,Home Office,Food,52.58,84.55,7,257.69,-33.9
+4,2023-04-17,East,Small Business,Electronics,64.55,82.15,12,492.49,-281.29
+5,2023-03-13,East,Small Business,Clothing,81.49,105.17,16,404.02,-25.14
+6,2024-12-01,West,Small Business,Furniture,19.6,30.11,16,398.15,-229.99
+7,2023-01-21,West,Small Business,Clothing,86.57,153.99,43,386.53,2512.53
+8,2024-09-06,East,Consumer,Clothing,77.14,127.86,36,117.77,1708.15
+9,2023-05-02,South,Small Business,Electronics,46.77,63.96,13,147.75,75.72
+10,2024-04-11,West,Home Office,Food,93.96,139.75,7,258.8,61.73
+11,2023-08-03,East,Corporate,Food,99.18,124.33,36,168.8,736.6
+12,2023-11-27,West,Home Office,Electronics,28.45,33.21,47,236.86,-13.14
+13,2024-04-03,East,Small Business,Electronics,44.13,79.63,9,449.81,-130.31
+14,2023-03-29,North,Consumer,Electronics,93.38,125.02,32,420.95,591.53
+15,2024-01-08,East,Small Business,Electronics,74.94,94.42,11,333.52,-119.24
+16,2023-04-10,North,Corporate,Electronics,14.33,24.68,8,436.15,-353.35
+17,2024-10-25,West,Home Office,Furniture,80.34,133.06,33,402.7,1337.06
+18,2023-05-11,East,Corporate,Clothing,84.51,141.12,23,243.04,1058.99
+19,2024-10-23,West,Corporate,Clothing,77.55,101.28,25,140.48,452.77
+20,2023-11-05,North,Corporate,Clothing,81.96,107.32,8,281.39,-78.51
+21,2023-12-10,East,Home Office,Food,84.26,109.43,45,381.3,751.35
+22,2024-05-06,West,Small Business,Furniture,26.78,33.65,22,246.39,-95.25
+23,2024-02-18,North,Corporate,Clothing,31.21,52.75,4,350.05,-263.89
+24,2024-01-21,West,Home Office,Food,67.04,124.91,40,92.45,2222.35
+25,2023-07-11,South,Consumer,Furniture,91.71,160.67,3,386.6,-179.72
+26,2023-10-04,North,Home Office,Furniture,38.46,69.72,29,415.72,490.82
+27,2023-06-10,North,Consumer,Food,62.95,92.18,41,368.08,830.35
+28,2024-04-04,North,Home Office,Furniture,71.47,120.69,29,485.27,942.11
+29,2023-11-10,East,Small Business,Food,50.68,71.91,34,421.99,299.83
+30,2023-01-22,East,Corporate,Clothing,74.24,116.78,34,456.39,989.97
+31,2023-09-10,East,Small Business,Food,90.97,139.5,28,470.11,888.73
+32,2024-07-14,South,Home Office,Furniture,66.17,83.32,13,410.61,-187.66
+33,2024-04-19,South,Corporate,Clothing,58.58,84.85,15,353.42,40.63
+34,2023-02-28,North,Consumer,Clothing,49.49,97.37,23,52.57,1048.67
+35,2024-05-25,South,Home Office,Electronics,61.97,82.03,44,259.62,623.02
+36,2024-11-12,West,Corporate,Electronics,41.98,51.23,26,307.02,-66.52
+37,2024-04-20,North,Consumer,Furniture,45.23,66.79,4,186.81,-100.57
+38,2024-11-30,North,Consumer,Food,57.87,104.82,26,193.15,1027.55
+39,2023-07-09,West,Small Business,Food,16.0,25.98,40,482.52,-83.32
+40,2024-11-17,North,Home Office,Furniture,30.61,52.43,9,451.27,-254.89
+41,2024-07-16,South,Consumer,Clothing,58.86,74.79,5,432.13,-352.48
+42,2024-07-20,East,Corporate,Furniture,48.84,80.93,32,232.71,794.17
+43,2023-09-01,West,Consumer,Furniture,39.95,55.58,20,56.16,256.44
+44,2024-05-19,South,Consumer,Clothing,75.75,140.2,11,86.1,622.85
+45,2023-05-11,West,Small Business,Food,72.43,120.7,15,190.49,533.56
+46,2024-04-29,West,Small Business,Furniture,25.01,31.99,32,57.08,166.28
+47,2024-10-08,North,Corporate,Food,89.08,103.17,28,57.72,336.8
+48,2023-01-21,North,Small Business,Furniture,54.59,62.14,22,462.47,-296.37
+49,2023-06-16,South,Consumer,Clothing,76.73,110.05,41,367.77,998.35
+50,2023-10-01,West,Consumer,Clothing,61.58,82.47,17,189.03,166.1
+51,2024-01-23,North,Small Business,Electronics,99.79,167.8,26,109.69,1658.57
+52,2024-08-23,North,Consumer,Clothing,77.72,120.42,44,280.24,1598.56
+53,2023-11-12,West,Consumer,Electronics,73.63,98.62,7,52.41,122.52
+54,2023-01-14,South,Corporate,Furniture,80.07,98.83,42,472.29,315.63
+55,2023-08-30,South,Small Business,Food,22.88,27.79,26,236.67,-109.01
+56,2023-12-12,West,Consumer,Clothing,28.41,53.36,25,231.05,392.7
+57,2024-07-18,South,Small Business,Clothing,74.27,97.97,10,225.77,11.23
+58,2023-12-06,North,Corporate,Clothing,54.46,91.85,45,81.2,1601.35
+59,2023-04-02,West,Small Business,Furniture,77.92,142.56,19,337.25,890.91
+60,2024-01-02,North,Consumer,Electronics,19.26,31.83,11,379.85,-241.58
+61,2024-03-30,East,Small Business,Furniture,58.28,109.19,13,354.26,307.57
+62,2024-03-03,East,Consumer,Food,44.09,64.07,8,112.3,47.54
+63,2024-05-23,South,Consumer,Furniture,51.13,100.25,40,310.48,1654.32
+64,2023-02-04,East,Consumer,Food,64.36,78.51,4,306.27,-249.67
+65,2023-07-25,North,Corporate,Clothing,55.21,65.81,47,440.78,57.42
+66,2023-03-22,East,Small Business,Food,58.59,99.18,31,220.61,1037.68
+67,2024-07-15,North,Corporate,Food,53.77,104.77,28,217.17,1210.83
+68,2024-01-23,South,Small Business,Electronics,46.81,85.57,11,328.34,98.02
+69,2023-01-02,South,Corporate,Food,79.47,92.88,43,334.88,241.75
+70,2024-01-25,North,Home Office,Food,11.1,15.0,1,261.18,-257.28
+71,2024-07-19,East,Consumer,Furniture,63.86,123.72,49,249.38,2683.76
+72,2023-04-16,South,Consumer,Clothing,60.9,80.86,47,272.37,665.75
+73,2024-04-21,West,Corporate,Furniture,74.46,134.26,38,437.47,1834.93
+74,2024-12-03,South,Home Office,Furniture,63.91,117.76,24,257.53,1034.87
+75,2024-02-06,East,Consumer,Clothing,84.41,130.49,47,472.97,1692.79
+76,2024-12-30,West,Small Business,Clothing,96.32,139.44,31,276.8,1059.92
+77,2024-07-09,East,Corporate,Food,40.83,61.45,41,477.14,368.28
+78,2023-06-11,North,Consumer,Food,30.46,39.73,46,424.77,1.65
+79,2023-07-21,West,Consumer,Electronics,48.12,91.45,26,213.09,913.49
+80,2023-09-27,East,Corporate,Furniture,35.91,54.06,49,438.64,450.71
+81,2023-09-28,West,Corporate,Clothing,65.35,123.79,5,99.53,192.67
+82,2024-03-31,East,Small Business,Food,92.07,110.04,20,466.27,-106.87
+83,2024-04-06,West,Small Business,Clothing,22.52,44.8,41,334.24,579.24
+84,2024-12-27,East,Consumer,Food,19.07,28.58,11,74.48,30.13
+85,2023-09-09,North,Consumer,Electronics,33.04,37.77,33,339.92,-183.83
+86,2024-12-02,West,Corporate,Electronics,75.35,85.46,38,488.41,-104.23
+87,2023-10-23,West,Consumer,Clothing,63.37,112.27,27,81.41,1238.89
+88,2024-12-25,West,Consumer,Electronics,19.2,32.51,34,299.61,152.93
+89,2024-12-20,West,Corporate,Clothing,92.69,168.87,15,386.51,756.19
+90,2023-12-04,North,Consumer,Food,81.11,96.91,32,414.62,90.98
+91,2023-02-22,West,Consumer,Furniture,12.07,13.66,21,236.22,-202.83
+92,2023-08-05,South,Home Office,Electronics,68.62,106.89,46,141.87,1618.55
+93,2023-07-07,North,Small Business,Food,79.41,115.05,5,69.05,109.15
+94,2024-01-15,South,Corporate,Furniture,43.7,66.24,6,310.88,-175.64
+95,2024-05-07,West,Home Office,Furniture,16.2,32.28,38,253.81,357.23
+96,2023-02-10,East,Small Business,Furniture,16.96,33.47,22,476.93,-113.71
+97,2023-06-06,South,Small Business,Food,19.38,37.75,18,77.27,253.39
+98,2023-01-15,West,Small Business,Food,85.64,154.62,14,358.43,607.29
+99,2023-03-06,South,Home Office,Clothing,91.96,130.52,10,61.23,324.37
+100,2024-06-04,West,Home Office,Furniture,21.05,30.96,46,127.15,328.71
+101,2023-12-10,West,Small Business,Furniture,31.23,49.8,13,254.11,-12.7
+102,2023-05-09,West,Consumer,Furniture,24.9,46.0,31,254.69,399.41
+103,2024-10-09,East,Consumer,Clothing,26.77,31.1,30,358.57,-228.67
+104,2024-04-16,South,Home Office,Furniture,85.37,126.51,3,459.6,-336.18
+105,2023-03-04,North,Home Office,Food,39.89,46.85,30,337.56,-128.76
+106,2023-05-19,North,Home Office,Furniture,38.03,59.45,6,479.09,-350.57
+107,2024-05-13,North,Small Business,Electronics,30.47,58.17,29,446.73,356.57
+108,2024-08-15,North,Consumer,Food,64.71,116.75,8,313.02,103.3
+109,2024-01-27,West,Home Office,Clothing,44.14,57.61,44,425.21,167.47
+110,2024-11-05,South,Home Office,Furniture,76.98,152.3,45,339.16,3050.24
+111,2024-02-23,South,Corporate,Electronics,28.5,48.47,43,85.35,773.36
+112,2023-10-16,East,Small Business,Clothing,80.9,89.75,44,383.25,6.15
+113,2024-01-14,South,Corporate,Clothing,64.33,85.55,33,92.71,607.55
+114,2024-05-04,South,Consumer,Food,20.28,27.07,17,317.34,-201.91
+115,2023-08-19,South,Corporate,Clothing,47.31,54.99,48,366.19,2.45
+116,2023-02-10,East,Corporate,Clothing,87.72,172.27,11,79.94,850.11
+117,2023-01-28,North,Corporate,Clothing,93.07,142.44,13,153.86,487.95
+118,2023-05-15,South,Small Business,Clothing,51.91,98.95,11,462.05,55.39
+119,2023-07-20,East,Consumer,Furniture,53.28,74.06,31,327.34,316.84
+120,2023-02-02,East,Corporate,Furniture,92.66,112.37,28,160.83,391.05
+121,2023-02-17,West,Small Business,Furniture,62.84,95.95,44,360.81,1096.03
+122,2024-05-17,East,Consumer,Furniture,12.96,15.59,6,318.55,-302.77
+123,2024-02-11,North,Home Office,Electronics,92.15,141.67,41,275.71,1754.61
+124,2024-07-27,South,Corporate,Furniture,32.34,62.36,16,489.28,-8.96
+125,2024-12-28,East,Consumer,Clothing,61.99,97.24,4,357.55,-216.55
+126,2023-04-09,North,Corporate,Furniture,24.9,41.21,35,218.95,351.9
+127,2024-11-14,East,Home Office,Furniture,13.05,16.19,48,410.03,-259.31
+128,2024-12-26,East,Consumer,Food,38.03,43.33,26,448.06,-310.26
+129,2024-06-30,East,Small Business,Clothing,80.24,96.27,12,106.35,86.01
+130,2024-09-04,East,Consumer,Furniture,34.98,57.32,11,140.25,105.49
+131,2024-04-06,East,Small Business,Furniture,29.81,35.34,37,147.3,57.31
+132,2024-10-04,North,Consumer,Furniture,29.14,41.91,25,361.05,-41.8
+133,2023-01-05,South,Small Business,Electronics,56.37,89.91,18,321.37,282.35
+134,2023-08-06,South,Home Office,Furniture,97.8,141.79,19,328.55,507.26
+135,2024-05-17,South,Home Office,Food,51.31,64.0,23,473.35,-181.48
+136,2024-02-02,South,Home Office,Clothing,60.16,81.0,38,399.16,392.76
+137,2024-01-28,North,Consumer,Clothing,87.46,169.28,18,107.57,1365.19
+138,2023-07-26,West,Home Office,Furniture,58.16,99.36,26,206.38,864.82
+139,2023-01-15,West,Corporate,Furniture,26.6,41.14,6,245.93,-158.69
+140,2024-07-07,North,Home Office,Furniture,36.96,41.08,4,228.18,-211.7
+141,2024-04-05,North,Small Business,Clothing,37.89,75.52,44,351.19,1304.53
+142,2024-11-21,East,Small Business,Clothing,45.76,77.99,29,451.35,483.32
+143,2024-07-28,East,Small Business,Electronics,48.41,67.06,34,187.72,446.38
+144,2023-08-29,East,Consumer,Food,81.98,155.05,17,298.34,943.85
+145,2024-07-17,South,Corporate,Electronics,41.44,55.22,43,405.23,187.31
+146,2023-04-06,East,Home Office,Food,52.14,82.88,43,237.3,1084.52
+147,2024-04-29,West,Corporate,Electronics,66.25,110.8,16,125.65,587.15
+148,2024-02-11,South,Corporate,Clothing,44.0,57.15,2,263.73,-237.43
+149,2023-08-19,East,Small Business,Electronics,85.29,168.92,34,74.85,2768.57
+150,2024-10-16,South,Small Business,Food,62.87,111.49,8,474.07,-85.11
+151,2023-06-20,West,Small Business,Furniture,36.46,58.41,13,83.67,201.68
+152,2024-06-24,East,Consumer,Food,74.27,93.77,42,247.31,571.69
+153,2023-02-05,West,Corporate,Furniture,57.49,66.03,8,288.45,-220.13
+154,2024-06-08,West,Corporate,Clothing,58.1,80.65,30,493.39,183.11
+155,2023-06-09,West,Consumer,Food,53.3,94.76,32,124.71,1202.01
+156,2024-11-29,East,Consumer,Electronics,54.73,73.47,36,101.49,573.15
+157,2023-08-31,North,Consumer,Food,78.88,125.07,47,53.92,2117.01
+158,2023-03-27,East,Corporate,Furniture,19.27,33.82,30,120.01,316.49
+159,2024-07-31,West,Corporate,Clothing,40.09,47.99,1,143.27,-135.37
+160,2024-11-12,East,Small Business,Electronics,16.8,28.84,43,333.76,183.96
+161,2024-07-10,West,Small Business,Food,77.79,92.0,39,148.87,405.32
+162,2024-07-27,North,Corporate,Furniture,34.51,67.94,17,59.23,509.08
+163,2024-10-07,South,Small Business,Electronics,90.77,139.75,20,421.98,557.62
+164,2023-01-28,North,Consumer,Clothing,57.39,70.91,24,214.52,109.96
+165,2024-09-11,North,Home Office,Electronics,82.07,115.57,22,209.16,527.84
+166,2024-07-09,South,Small Business,Clothing,98.1,144.41,29,186.12,1156.87
+167,2023-12-06,East,Corporate,Electronics,85.58,152.53,22,488.92,983.98
+168,2023-11-27,South,Small Business,Food,88.03,155.73,44,126.55,2852.25
+169,2024-10-01,East,Small Business,Furniture,46.72,77.12,9,454.21,-180.61
+170,2024-05-20,East,Small Business,Food,59.66,71.31,37,399.56,31.49
+171,2023-12-14,West,Home Office,Food,32.85,40.62,10,84.42,-6.72
+172,2024-04-17,West,Consumer,Clothing,27.65,32.75,36,494.03,-310.43
+173,2023-08-19,South,Corporate,Clothing,55.5,89.88,37,172.11,1099.95
+174,2023-07-09,North,Home Office,Clothing,63.55,120.07,28,94.36,1488.2
+175,2023-08-13,South,Corporate,Food,40.53,60.41,28,423.19,133.45
+176,2024-01-20,East,Corporate,Electronics,61.25,76.24,42,368.0,261.58
+177,2024-01-12,West,Corporate,Electronics,89.87,143.99,43,327.75,1999.41
+178,2023-10-10,South,Home Office,Food,60.1,110.02,21,120.19,928.13
+179,2024-09-24,South,Consumer,Food,74.87,132.34,24,265.32,1113.96
+180,2024-09-19,West,Corporate,Furniture,82.48,156.16,42,401.25,2693.31
+181,2023-09-16,West,Consumer,Clothing,98.99,133.65,40,186.63,1199.77
+182,2023-12-25,West,Consumer,Clothing,64.29,81.94,2,190.26,-154.96
+183,2024-12-10,East,Small Business,Food,82.62,156.3,8,51.41,538.03
+184,2024-03-31,West,Home Office,Food,96.64,163.5,48,128.41,3080.87
+185,2024-02-15,North,Home Office,Electronics,95.0,131.08,27,443.93,530.23
+186,2024-10-10,South,Small Business,Food,22.7,40.14,22,248.79,134.89
+187,2023-11-14,West,Small Business,Electronics,46.58,85.41,37,492.91,943.8
+188,2024-11-07,West,Consumer,Food,39.16,64.75,27,228.07,462.86
+189,2023-08-13,East,Corporate,Furniture,17.82,30.63,29,371.83,-0.34
+190,2023-08-22,East,Home Office,Furniture,66.99,96.31,3,176.86,-88.9
+191,2024-11-14,South,Corporate,Electronics,76.23,120.81,44,213.71,1747.81
+192,2024-10-25,North,Corporate,Clothing,86.33,135.69,13,135.83,505.85
+193,2024-01-09,South,Small Business,Furniture,21.05,39.22,45,206.18,611.47
+194,2024-11-02,West,Corporate,Electronics,88.88,164.96,10,296.26,464.54
+195,2024-08-30,North,Consumer,Food,67.86,125.5,36,496.3,1578.74
+196,2024-04-16,North,Small Business,Food,73.36,81.42,9,348.89,-276.35
+197,2023-08-21,North,Corporate,Electronics,91.96,163.19,27,139.66,1783.55
+198,2024-11-22,North,Small Business,Clothing,66.23,118.08,34,70.23,1692.67
+199,2023-04-23,South,Consumer,Electronics,40.23,68.82,1,106.86,-78.27
+200,2024-05-11,East,Consumer,Electronics,84.26,150.04,32,303.15,1801.81
+201,2024-03-17,East,Corporate,Furniture,42.68,79.29,25,394.32,520.93
+202,2024-07-17,West,Small Business,Electronics,13.08,19.92,29,473.19,-274.83
+203,2023-09-25,East,Corporate,Electronics,84.76,131.53,7,57.12,270.27
+204,2024-05-24,East,Corporate,Food,41.07,49.79,49,285.24,142.04
+205,2024-01-21,East,Small Business,Furniture,79.65,115.24,3,261.89,-155.12
+206,2024-01-22,East,Corporate,Food,42.65,71.61,20,345.22,233.98
+207,2023-04-23,West,Consumer,Food,87.5,157.71,20,301.81,1102.39
+208,2024-09-04,South,Small Business,Clothing,29.76,38.55,30,359.17,-95.47
+209,2024-09-16,North,Small Business,Clothing,97.71,119.6,35,346.14,420.01
+210,2023-03-22,East,Small Business,Furniture,80.18,136.04,35,102.66,1852.44
+211,2024-11-29,South,Small Business,Furniture,20.28,22.34,49,409.87,-308.93
+212,2023-04-23,East,Corporate,Clothing,60.92,76.79,39,105.45,513.48
+213,2023-01-02,East,Corporate,Clothing,98.68,111.13,27,364.34,-28.19
+214,2024-10-03,North,Consumer,Clothing,52.4,65.51,26,237.27,103.59
+215,2023-08-08,North,Home Office,Clothing,26.39,33.34,14,281.23,-183.93
+216,2024-07-19,North,Home Office,Clothing,53.63,77.7,17,456.48,-47.29
+217,2023-08-13,East,Consumer,Food,56.12,82.05,18,450.45,16.29
+218,2024-01-20,East,Home Office,Furniture,76.75,144.81,45,418.04,2644.66
+219,2024-02-07,East,Consumer,Food,72.9,113.66,29,279.57,902.47
+220,2024-09-29,North,Corporate,Food,46.23,80.95,20,381.31,313.09
+221,2023-05-10,West,Small Business,Electronics,29.62,35.36,27,280.8,-125.82
+222,2023-02-22,South,Small Business,Food,68.05,88.66,18,441.32,-70.34
+223,2024-11-14,West,Corporate,Clothing,47.95,83.08,4,231.25,-90.73
+224,2024-12-30,East,Small Business,Clothing,21.9,25.13,1,486.61,-483.38
+225,2024-11-02,East,Small Business,Electronics,91.05,140.03,1,469.55,-420.57
+226,2024-12-10,West,Home Office,Electronics,72.21,118.38,26,383.72,816.7
+227,2024-02-20,East,Corporate,Electronics,71.49,117.38,45,175.74,1889.31
+228,2023-09-04,South,Home Office,Electronics,84.03,94.17,20,109.24,93.56
+229,2024-03-14,East,Home Office,Electronics,57.67,80.16,23,434.62,82.65
+230,2023-07-22,South,Small Business,Food,83.35,139.43,10,124.39,436.41
+231,2023-07-03,West,Small Business,Electronics,54.83,67.67,11,434.42,-293.18
+232,2023-05-03,West,Corporate,Food,16.05,27.7,41,270.84,206.81
+233,2024-02-05,East,Small Business,Furniture,46.47,82.31,41,232.95,1236.49
+234,2023-10-21,South,Small Business,Electronics,54.77,108.65,5,456.44,-187.04
+235,2023-10-07,East,Corporate,Electronics,74.82,96.43,1,321.73,-300.12
+236,2024-09-01,North,Small Business,Food,19.59,36.1,17,309.48,-28.81
+237,2023-07-17,North,Home Office,Furniture,22.6,35.44,22,301.44,-18.96
+238,2024-05-25,North,Corporate,Food,33.73,48.44,34,217.03,283.11
+239,2023-05-24,North,Small Business,Food,33.98,41.12,45,403.54,-82.24
+240,2024-08-31,East,Consumer,Electronics,75.9,133.73,41,163.76,2207.27
+241,2023-07-20,North,Corporate,Clothing,32.57,42.74,29,472.5,-177.57
+242,2023-05-04,South,Corporate,Clothing,66.98,96.07,4,452.29,-335.93
+243,2023-07-06,West,Consumer,Food,54.48,62.99,5,201.87,-159.32
+244,2023-11-22,West,Small Business,Electronics,61.6,112.19,11,378.26,178.23
+245,2024-04-08,North,Small Business,Furniture,85.43,152.91,21,307.95,1109.13
+246,2023-12-15,North,Corporate,Clothing,46.39,81.66,35,201.94,1032.51
+247,2024-10-21,North,Corporate,Furniture,79.38,108.71,12,494.83,-142.87
+248,2024-02-07,East,Small Business,Clothing,47.98,60.27,26,61.36,258.18
+249,2023-12-12,West,Small Business,Electronics,41.85,70.05,19,163.69,372.11
+250,2024-05-25,North,Home Office,Food,96.28,148.9,45,284.03,2083.87
+251,2023-05-27,South,Corporate,Furniture,26.59,33.51,7,284.88,-236.44
+252,2023-05-28,North,Corporate,Furniture,18.13,31.14,47,315.02,296.45
+253,2024-12-11,West,Consumer,Food,79.39,158.15,7,388.25,163.07
+254,2024-05-03,North,Home Office,Furniture,16.14,28.61,26,330.57,-6.35
+255,2024-10-01,West,Small Business,Clothing,85.34,150.71,40,320.13,2294.67
+256,2024-07-04,North,Home Office,Food,49.35,96.49,5,74.08,161.62
+257,2023-12-04,South,Small Business,Clothing,92.4,118.52,21,219.44,329.08
+258,2024-10-02,North,Small Business,Clothing,74.94,120.58,14,154.43,484.53
+259,2024-04-17,South,Home Office,Electronics,64.94,128.69,4,169.42,85.58
+260,2023-05-31,South,Corporate,Clothing,95.44,119.18,23,299.45,246.57
+261,2024-02-19,North,Small Business,Electronics,45.7,79.07,42,139.78,1261.76
+262,2023-10-25,South,Home Office,Furniture,95.87,156.0,20,182.28,1020.32
+263,2024-09-02,East,Consumer,Furniture,22.15,36.06,15,156.69,51.96
+264,2023-09-20,North,Home Office,Electronics,53.54,92.51,45,476.83,1276.82
+265,2023-05-24,North,Consumer,Clothing,34.29,66.41,29,475.1,456.38
+266,2023-12-12,South,Small Business,Food,58.59,105.72,8,324.47,52.57
+267,2024-09-15,South,Home Office,Food,24.58,28.28,41,466.04,-314.34
+268,2024-07-25,North,Home Office,Electronics,85.74,160.12,48,403.62,3166.62
+269,2023-01-02,East,Consumer,Furniture,86.18,112.29,19,315.48,180.61
+270,2023-10-31,South,Home Office,Furniture,95.97,138.12,48,52.9,1970.3
+271,2023-09-11,South,Home Office,Food,23.92,36.25,39,397.63,83.24
+272,2024-10-13,West,Small Business,Electronics,66.1,101.32,46,366.12,1254.0
+273,2024-03-28,East,Home Office,Food,52.68,78.58,28,326.86,398.34
+274,2023-02-06,East,Corporate,Clothing,40.99,79.67,46,392.19,1387.09
+275,2023-06-09,North,Consumer,Clothing,41.64,72.26,27,280.81,545.93
+276,2023-01-09,East,Home Office,Electronics,47.15,78.65,4,366.84,-240.84
+277,2023-08-21,North,Consumer,Electronics,73.44,84.08,15,470.83,-311.23
+278,2023-04-09,West,Consumer,Clothing,63.85,122.18,35,219.11,1822.44
+279,2024-10-20,East,Consumer,Furniture,51.37,98.55,37,368.65,1377.01
+280,2023-07-27,South,Home Office,Electronics,16.83,30.33,1,264.06,-250.56
+281,2023-05-11,West,Home Office,Clothing,17.0,18.81,3,353.48,-348.05
+282,2024-02-08,North,Consumer,Clothing,10.21,11.76,47,393.3,-320.45
+283,2023-06-01,West,Corporate,Furniture,97.09,126.48,24,70.45,634.91
+284,2023-02-23,North,Consumer,Furniture,10.47,12.75,27,340.97,-279.41
+285,2023-04-30,West,Corporate,Furniture,19.28,28.13,40,152.03,201.97
+286,2024-11-03,North,Consumer,Furniture,38.31,73.95,36,351.51,931.53
+287,2024-09-19,East,Small Business,Food,82.67,126.06,34,260.75,1214.51
+288,2024-08-09,South,Consumer,Furniture,96.59,107.41,29,398.1,-84.32
+289,2024-09-16,North,Consumer,Food,81.1,109.85,24,105.53,584.47
+290,2024-02-24,West,Home Office,Electronics,72.15,82.26,24,331.85,-89.21
+291,2024-02-26,North,Corporate,Clothing,56.92,64.47,42,175.31,141.79
+292,2023-04-14,North,Small Business,Food,17.8,24.0,4,433.84,-409.04
+293,2023-09-11,North,Corporate,Electronics,96.24,129.74,3,467.77,-367.27
+294,2023-08-15,West,Small Business,Electronics,78.26,141.53,34,498.38,1652.8
+295,2023-04-22,South,Consumer,Food,67.51,133.49,49,408.2,2824.82
+296,2024-05-24,East,Home Office,Electronics,78.31,112.3,23,389.18,392.59
+297,2024-04-17,South,Home Office,Electronics,75.17,111.7,23,146.98,693.21
+298,2023-04-09,North,Corporate,Food,67.35,125.29,45,201.2,2406.1
+299,2023-06-02,West,Home Office,Electronics,98.25,131.79,5,259.56,-91.86
+300,2023-12-04,South,Corporate,Furniture,91.3,113.28,31,398.02,283.36
+301,2024-12-06,North,Corporate,Furniture,68.2,127.38,41,461.73,1964.65
+302,2023-06-12,East,Small Business,Clothing,72.39,82.66,6,135.11,-73.49
+303,2024-12-20,East,Corporate,Electronics,14.64,24.27,37,465.07,-108.76
+304,2024-11-11,East,Small Business,Clothing,70.29,112.87,10,363.03,62.77
+305,2023-06-10,North,Home Office,Furniture,13.97,19.72,40,324.85,-94.85
+306,2024-08-02,West,Corporate,Furniture,62.94,87.09,7,139.93,29.12
+307,2024-02-02,South,Corporate,Furniture,99.94,179.36,39,74.99,3022.39
+308,2023-10-04,East,Consumer,Electronics,60.02,70.69,38,305.81,99.65
+309,2024-05-18,North,Corporate,Electronics,52.59,69.06,21,343.18,2.69
+310,2024-01-27,North,Corporate,Furniture,38.16,67.13,20,144.85,434.55
+311,2023-05-15,South,Consumer,Clothing,20.85,33.22,3,300.41,-263.3
+312,2023-07-14,East,Consumer,Clothing,75.79,92.1,22,435.42,-76.6
+313,2024-02-05,North,Home Office,Food,27.33,51.76,47,425.78,722.43
+314,2024-10-01,South,Corporate,Furniture,20.38,29.63,4,467.31,-430.31
+315,2023-02-02,West,Home Office,Clothing,47.96,88.49,28,214.65,920.19
+316,2024-11-18,West,Home Office,Furniture,81.58,147.57,12,193.12,598.76
+317,2024-04-04,West,Consumer,Clothing,77.06,128.07,38,387.24,1551.14
+318,2024-04-14,East,Small Business,Food,14.94,23.08,36,244.0,49.04
+319,2024-01-10,South,Home Office,Food,50.96,100.98,47,89.4,2261.54
+320,2023-01-22,South,Small Business,Furniture,57.02,70.16,41,177.26,361.48
+321,2024-10-31,North,Corporate,Clothing,68.01,119.2,5,238.36,17.59
+322,2023-02-07,North,Consumer,Electronics,68.52,87.16,13,181.63,60.69
+323,2023-08-18,North,Corporate,Food,42.82,60.14,23,199.49,198.87
+324,2023-12-31,South,Corporate,Furniture,60.46,83.3,30,182.2,503.0
+325,2024-07-16,North,Consumer,Furniture,53.3,104.06,37,68.67,1809.45
+326,2024-03-13,South,Corporate,Clothing,89.65,176.67,25,336.69,1838.81
+327,2023-10-10,South,Consumer,Furniture,57.72,73.0,48,318.78,414.66
+328,2023-01-27,West,Small Business,Food,49.69,55.64,27,344.02,-183.37
+329,2023-08-14,North,Corporate,Furniture,46.4,81.11,14,136.54,349.4
+330,2023-10-04,West,Consumer,Furniture,61.52,90.82,48,183.04,1223.36
+331,2024-08-31,East,Home Office,Electronics,82.36,97.18,47,328.83,367.71
+332,2023-10-11,East,Corporate,Electronics,58.46,100.28,36,319.83,1185.69
+333,2024-04-25,East,Small Business,Food,69.55,110.63,39,277.85,1324.27
+334,2024-03-28,South,Consumer,Clothing,76.41,151.48,16,207.69,993.43
+335,2024-10-20,South,Corporate,Electronics,56.82,74.13,22,460.82,-80.0
+336,2024-05-30,South,Corporate,Clothing,48.41,70.85,21,202.9,268.34
+337,2024-06-30,North,Corporate,Food,88.9,141.2,21,255.03,843.27
+338,2023-07-11,West,Small Business,Electronics,47.58,86.24,8,355.15,-45.87
+339,2023-02-18,South,Consumer,Clothing,51.57,82.2,49,294.36,1206.51
+340,2024-05-26,West,Home Office,Electronics,99.13,163.72,16,206.1,827.34
+341,2023-01-17,West,Home Office,Food,10.02,13.06,31,246.04,-151.8
+342,2023-06-21,West,Home Office,Food,26.69,49.7,42,407.52,558.9
+343,2023-08-08,North,Consumer,Electronics,44.56,66.21,10,175.16,41.34
+344,2023-06-07,North,Home Office,Clothing,93.93,115.24,32,114.01,567.91
+345,2024-04-21,East,Small Business,Furniture,16.3,27.67,34,190.92,195.66
+346,2023-02-15,East,Consumer,Furniture,10.85,14.05,9,432.29,-403.49
+347,2024-01-08,West,Corporate,Electronics,14.74,17.51,17,90.05,-42.96
+348,2024-06-01,East,Small Business,Clothing,17.97,33.71,11,496.26,-323.12
+349,2023-04-09,West,Corporate,Furniture,13.38,20.26,32,293.45,-73.29
+350,2023-02-06,North,Home Office,Food,53.18,94.36,10,493.18,-81.38
+351,2023-10-07,North,Small Business,Clothing,62.27,84.78,22,472.55,22.67
+352,2023-12-15,North,Consumer,Furniture,34.45,62.3,17,253.77,219.68
+353,2024-05-11,South,Small Business,Clothing,45.85,55.05,4,139.32,-102.52
+354,2023-10-29,West,Corporate,Electronics,18.25,25.92,48,124.2,243.96
+355,2023-06-30,North,Consumer,Clothing,40.27,79.74,47,158.0,1697.09
+356,2024-08-29,West,Small Business,Furniture,57.03,103.49,25,369.56,791.94
+357,2023-04-09,East,Small Business,Electronics,75.9,117.46,21,172.83,699.93
+358,2024-11-30,East,Small Business,Clothing,10.3,14.48,37,203.64,-48.98
+359,2023-04-26,North,Small Business,Food,52.06,98.13,38,251.95,1498.71
+360,2023-07-10,West,Consumer,Furniture,36.73,58.41,49,460.95,601.37
+361,2023-09-10,North,Corporate,Electronics,86.75,154.64,1,135.23,-67.34
+362,2023-06-10,East,Small Business,Clothing,74.4,132.34,25,52.26,1396.24
+363,2023-09-13,North,Consumer,Food,63.02,70.34,36,77.04,186.48
+364,2023-11-19,West,Corporate,Furniture,34.95,42.42,17,457.14,-330.15
+365,2023-05-08,East,Small Business,Food,91.93,155.7,41,341.38,2273.19
+366,2023-01-18,South,Corporate,Clothing,14.06,17.51,24,172.87,-90.07
+367,2024-07-19,East,Corporate,Clothing,19.85,26.4,2,129.74,-116.64
+368,2024-07-23,South,Consumer,Electronics,45.25,88.33,40,182.42,1540.78
+369,2023-11-19,North,Corporate,Food,21.2,34.01,15,101.66,90.49
+370,2024-11-16,North,Consumer,Electronics,96.08,170.61,32,473.69,1911.27
+371,2024-09-17,West,Small Business,Furniture,81.82,131.09,39,402.89,1518.64
+372,2023-10-15,South,Corporate,Electronics,33.31,53.2,6,258.08,-138.74
+373,2024-10-24,North,Corporate,Furniture,62.97,74.6,1,439.23,-427.6
+374,2024-09-30,South,Home Office,Clothing,98.41,138.69,47,162.26,1730.9
+375,2023-06-04,North,Small Business,Clothing,89.58,121.31,23,372.7,357.09
+376,2024-05-04,East,Small Business,Food,64.07,93.01,39,435.26,693.4
+377,2024-01-21,North,Home Office,Furniture,91.34,166.1,17,210.55,1060.37
+378,2023-04-14,West,Home Office,Clothing,99.03,142.08,34,390.86,1072.84
+379,2024-01-28,East,Consumer,Food,76.9,115.85,41,182.78,1414.17
+380,2023-09-03,West,Consumer,Food,15.85,23.1,29,184.49,25.76
+381,2023-06-25,East,Corporate,Electronics,46.14,54.63,9,98.18,-21.77
+382,2023-02-08,South,Corporate,Food,85.4,127.84,13,248.03,303.69
+383,2024-04-21,West,Corporate,Clothing,30.75,39.24,6,378.37,-327.43
+384,2024-11-12,North,Corporate,Electronics,84.76,107.48,6,473.1,-336.78
+385,2024-06-21,South,Consumer,Furniture,20.83,24.68,20,321.71,-244.71
+386,2024-02-12,North,Small Business,Furniture,14.23,20.22,3,438.41,-420.44
+387,2024-06-08,East,Corporate,Clothing,44.57,79.41,17,420.12,172.16
+388,2024-05-20,East,Small Business,Clothing,13.31,17.95,49,128.0,99.36
+389,2023-02-05,North,Corporate,Electronics,96.15,132.79,12,268.62,171.06
+390,2024-11-15,North,Home Office,Electronics,84.36,141.59,48,102.62,2644.42
+391,2023-01-20,South,Corporate,Clothing,82.07,104.74,47,356.97,708.52
+392,2023-11-17,North,Corporate,Clothing,66.68,127.18,45,477.45,2245.05
+393,2024-05-26,West,Corporate,Furniture,29.47,46.21,1,111.69,-94.95
+394,2024-02-04,West,Consumer,Furniture,56.64,85.12,17,380.25,103.91
+395,2024-10-15,North,Home Office,Furniture,63.75,102.13,3,334.51,-219.37
+396,2024-04-15,West,Corporate,Clothing,57.25,71.53,26,312.62,58.66
+397,2023-05-23,North,Corporate,Food,33.42,55.21,15,225.55,101.3
+398,2023-04-02,South,Small Business,Clothing,56.37,80.43,36,209.81,656.35
+399,2023-12-20,West,Home Office,Clothing,54.21,103.4,32,70.36,1503.72
+400,2024-12-27,West,Corporate,Furniture,99.67,124.78,32,148.06,655.46
+401,2023-02-20,North,Small Business,Clothing,90.77,141.27,4,56.83,145.17
+402,2024-10-26,West,Small Business,Electronics,51.7,84.7,18,311.64,282.36
+403,2024-11-28,East,Consumer,Clothing,66.06,74.65,49,97.63,323.28
+404,2024-07-28,South,Small Business,Clothing,77.31,110.35,19,442.86,184.9
+405,2023-07-09,South,Corporate,Clothing,13.14,23.12,43,285.41,143.73
+406,2023-05-05,West,Consumer,Clothing,90.54,166.44,35,364.86,2291.64
+407,2023-05-30,West,Consumer,Food,87.41,120.79,40,234.89,1100.31
+408,2023-11-10,East,Corporate,Clothing,51.17,93.06,14,302.26,284.2
+409,2024-07-23,East,Home Office,Electronics,45.21,89.11,33,474.2,974.5
+410,2023-12-08,West,Small Business,Electronics,34.57,64.69,14,87.23,334.45
+411,2023-11-01,West,Consumer,Clothing,52.9,63.79,34,164.27,205.99
+412,2024-11-22,East,Home Office,Furniture,13.99,24.7,4,400.99,-358.15
+413,2024-11-12,North,Corporate,Food,86.7,120.31,24,94.43,712.21
+414,2023-02-23,East,Small Business,Clothing,13.19,26.24,29,84.05,294.4
+415,2024-03-19,North,Small Business,Clothing,39.61,60.87,19,212.69,191.25
+416,2024-09-04,South,Consumer,Clothing,93.84,113.56,6,91.48,26.84
+417,2023-09-21,South,Small Business,Furniture,76.17,133.5,33,313.29,1578.6
+418,2023-02-22,East,Small Business,Furniture,35.33,49.13,49,151.82,524.38
+419,2024-07-25,North,Small Business,Furniture,32.74,65.39,40,453.06,852.94
+420,2024-09-11,East,Small Business,Food,10.46,20.73,19,402.58,-207.45
+421,2023-01-05,East,Corporate,Electronics,72.61,122.75,1,364.87,-314.73
+422,2023-04-13,North,Home Office,Food,14.39,17.51,5,327.62,-312.02
+423,2023-07-15,East,Corporate,Furniture,57.93,99.53,27,438.56,684.64
+424,2023-12-16,South,Corporate,Electronics,96.59,114.34,16,150.38,133.62
+425,2023-02-16,West,Consumer,Electronics,19.85,22.36,6,442.9,-427.84
+426,2024-10-17,West,Small Business,Furniture,90.5,166.58,40,405.27,2637.93
+427,2023-09-26,East,Corporate,Furniture,99.23,127.89,13,386.67,-14.09
+428,2024-01-05,North,Small Business,Food,15.54,22.4,48,302.57,26.71
+429,2024-09-27,North,Corporate,Furniture,89.46,176.78,35,160.81,2895.39
+430,2023-04-16,South,Corporate,Electronics,56.45,79.21,19,240.6,191.84
+431,2024-10-31,North,Consumer,Clothing,91.59,125.19,12,407.11,-3.91
+432,2024-10-20,North,Home Office,Furniture,61.42,118.32,16,64.3,846.1
+433,2024-10-18,South,Home Office,Furniture,69.59,83.49,43,401.92,195.78
+434,2023-04-30,East,Corporate,Food,58.94,105.13,10,158.03,303.87
+435,2024-08-26,West,Consumer,Food,87.8,174.66,25,114.94,2056.56
+436,2023-02-27,South,Small Business,Furniture,76.05,145.34,20,102.07,1283.73
+437,2023-12-12,East,Small Business,Electronics,56.91,95.98,31,62.26,1148.91
+438,2024-04-18,South,Corporate,Electronics,88.13,121.85,4,285.61,-150.73
+439,2023-04-27,East,Home Office,Clothing,32.08,42.63,44,148.22,315.98
+440,2023-05-07,South,Consumer,Furniture,24.16,44.39,23,495.24,-29.95
+441,2024-01-28,East,Home Office,Food,24.44,46.24,2,308.5,-264.9
+442,2024-10-02,South,Small Business,Electronics,40.06,63.01,22,112.05,392.85
+443,2023-02-27,East,Home Office,Clothing,31.48,41.55,37,359.94,12.65
+444,2024-09-25,South,Small Business,Furniture,93.71,112.61,8,453.98,-302.78
+445,2024-05-27,West,Consumer,Electronics,19.53,23.02,7,385.33,-360.9
+446,2023-04-06,West,Consumer,Furniture,72.91,127.39,14,84.4,678.32
+447,2024-09-29,North,Corporate,Furniture,27.03,39.95,3,453.15,-414.39
+448,2023-04-28,East,Corporate,Electronics,89.35,171.09,16,407.27,900.57
+449,2024-07-13,South,Home Office,Electronics,96.52,170.43,19,121.24,1283.05
+450,2024-08-23,East,Consumer,Electronics,51.89,66.01,18,73.3,180.86
+451,2024-05-02,West,Consumer,Furniture,89.12,147.26,16,300.79,629.45
+452,2023-08-25,East,Corporate,Furniture,10.46,15.61,8,120.22,-79.02
+453,2023-09-29,South,Small Business,Clothing,83.8,135.72,33,425.57,1287.79
+454,2023-07-08,East,Home Office,Food,30.58,53.95,49,211.25,933.88
+455,2024-12-04,South,Home Office,Furniture,91.78,167.55,12,460.8,448.44
+456,2024-03-22,West,Corporate,Food,10.1,18.78,11,304.56,-209.08
+457,2024-08-03,West,Consumer,Electronics,60.06,79.79,5,132.2,-33.55
+458,2023-09-04,West,Corporate,Furniture,78.1,88.1,27,112.82,157.18
+459,2023-03-17,North,Corporate,Clothing,33.28,58.75,12,309.41,-3.77
+460,2023-06-03,West,Corporate,Clothing,27.38,32.74,17,392.85,-301.73
+461,2024-10-17,East,Corporate,Food,17.57,24.31,6,401.68,-361.24
+462,2024-03-10,North,Small Business,Electronics,39.38,43.45,33,174.09,-39.78
+463,2023-03-27,West,Small Business,Food,60.39,103.48,5,141.91,73.54
+464,2024-11-27,East,Consumer,Electronics,20.43,25.55,28,57.54,85.82
+465,2023-10-12,East,Corporate,Clothing,43.9,74.18,14,355.64,68.28
+466,2023-08-08,East,Small Business,Food,10.82,21.56,5,84.46,-30.76
+467,2023-03-10,South,Consumer,Clothing,83.68,97.52,33,239.34,217.38
+468,2023-02-16,North,Corporate,Clothing,21.56,25.21,48,320.76,-145.56
+469,2023-04-04,East,Home Office,Electronics,35.5,49.93,41,471.7,119.93
+470,2024-03-28,South,Small Business,Food,11.66,21.92,19,190.31,4.63
+471,2023-07-23,West,Consumer,Food,48.9,63.28,22,162.4,153.96
+472,2023-08-06,East,Home Office,Clothing,85.61,121.94,5,344.37,-162.72
+473,2024-04-18,South,Corporate,Clothing,45.29,52.61,2,328.66,-314.02
+474,2024-03-07,East,Corporate,Electronics,26.15,46.73,30,199.45,417.95
+475,2023-12-07,North,Corporate,Furniture,77.83,114.21,47,467.65,1242.21
+476,2024-07-04,North,Small Business,Furniture,80.99,144.43,39,430.19,2043.97
+477,2024-09-03,West,Consumer,Clothing,25.64,49.06,4,150.79,-57.11
+478,2023-10-16,East,Home Office,Furniture,79.38,103.95,33,157.61,653.2
+479,2023-09-11,South,Consumer,Furniture,95.26,174.01,13,280.54,743.21
+480,2023-12-23,West,Small Business,Furniture,24.97,28.8,20,398.11,-321.51
+481,2023-01-23,East,Consumer,Furniture,79.39,151.55,7,69.82,435.3
+482,2024-06-05,West,Small Business,Clothing,73.77,124.35,15,362.0,396.7
+483,2023-04-10,South,Corporate,Furniture,52.62,99.28,23,341.71,731.47
+484,2023-06-29,West,Home Office,Furniture,15.21,16.73,14,154.17,-132.89
+485,2023-08-11,West,Corporate,Electronics,16.72,20.94,23,356.61,-259.55
+486,2024-10-20,West,Consumer,Clothing,86.72,125.81,19,473.08,269.63
+487,2024-03-17,East,Corporate,Food,99.11,142.87,29,71.05,1197.99
+488,2024-08-30,South,Home Office,Food,70.84,92.38,20,193.84,236.96
+489,2023-11-21,North,Corporate,Electronics,50.14,72.37,29,247.18,397.49
+490,2024-05-30,East,Home Office,Electronics,68.28,83.03,24,454.67,-100.67
+491,2023-01-16,North,Home Office,Clothing,63.5,93.44,18,483.02,55.9
+492,2023-12-02,North,Corporate,Food,44.53,81.14,10,249.85,116.25
+493,2023-09-15,East,Small Business,Furniture,15.91,24.36,41,387.51,-41.06
+494,2024-05-11,East,Consumer,Electronics,83.94,93.69,8,289.25,-211.25
+495,2023-06-09,South,Small Business,Food,43.47,64.31,26,292.0,249.84
+496,2024-04-19,South,Small Business,Clothing,83.69,94.11,29,175.14,127.04
+497,2024-10-25,West,Corporate,Furniture,32.73,64.47,10,147.63,169.77
+498,2024-11-20,North,Consumer,Clothing,10.09,12.26,17,179.6,-142.71
+499,2024-11-05,South,Consumer,Electronics,24.3,42.21,2,300.35,-264.53
+500,2024-01-15,West,Small Business,Food,52.17,103.06,6,63.12,242.22
+501,2024-06-28,South,Corporate,Food,94.99,175.11,5,458.26,-57.66
+502,2024-11-21,East,Consumer,Food,19.2,33.2,28,120.33,271.67
+503,2024-03-02,South,Small Business,Food,86.88,161.21,41,149.04,2898.49
+504,2024-09-04,North,Consumer,Furniture,57.43,113.92,5,283.22,-0.77
+505,2023-09-25,South,Corporate,Furniture,84.33,139.92,18,369.55,631.07
+506,2024-07-30,North,Corporate,Clothing,36.85,59.08,26,93.08,484.9
+507,2024-02-21,East,Corporate,Furniture,85.6,142.56,20,192.96,946.24
+508,2023-06-17,North,Consumer,Electronics,79.55,125.64,41,485.9,1403.79
+509,2023-02-12,South,Home Office,Electronics,30.7,51.32,49,168.05,842.33
+510,2024-07-09,West,Consumer,Food,21.82,32.84,27,190.87,106.67
+511,2023-10-12,East,Home Office,Electronics,88.12,114.26,49,426.42,854.44
+512,2024-02-01,South,Corporate,Clothing,96.69,116.82,12,72.6,168.96
+513,2023-01-12,East,Small Business,Furniture,12.82,14.89,7,259.08,-244.59
+514,2024-08-29,East,Home Office,Furniture,75.81,101.36,3,220.83,-144.18
+515,2023-10-29,South,Corporate,Furniture,91.86,104.86,10,192.46,-62.46
+516,2023-09-10,South,Corporate,Electronics,87.16,140.37,34,178.56,1630.58
+517,2024-05-13,West,Home Office,Furniture,96.81,131.22,25,91.12,769.13
+518,2023-02-04,East,Small Business,Food,78.41,144.44,35,191.67,2119.38
+519,2024-12-27,East,Corporate,Food,49.81,58.12,16,69.37,63.59
+520,2023-03-31,South,Home Office,Food,38.08,49.65,2,401.43,-378.29
+521,2024-08-27,North,Small Business,Electronics,38.87,68.3,24,229.2,477.12
+522,2024-08-24,South,Small Business,Furniture,75.2,123.25,10,249.76,230.74
+523,2024-02-22,East,Corporate,Electronics,77.13,89.32,38,452.12,11.1
+524,2023-04-25,South,Consumer,Furniture,28.03,52.96,22,346.12,202.34
+525,2024-09-08,West,Consumer,Clothing,88.13,166.52,26,53.63,1984.51
+526,2023-07-15,North,Corporate,Clothing,74.34,103.88,43,474.43,795.79
+527,2024-05-15,South,Small Business,Electronics,60.65,85.3,39,156.72,804.63
+528,2024-09-17,West,Corporate,Food,52.44,104.36,27,98.43,1303.41
+529,2024-05-07,East,Home Office,Electronics,58.89,97.97,29,395.66,737.66
+530,2023-03-16,South,Consumer,Food,24.33,38.4,47,275.21,386.08
+531,2024-02-17,East,Home Office,Furniture,28.33,52.53,38,245.2,674.4
+532,2024-01-11,West,Corporate,Food,18.2,24.69,20,162.28,-32.48
+533,2024-02-24,East,Corporate,Food,23.83,35.42,27,296.36,16.57
+534,2024-12-29,West,Small Business,Furniture,50.83,68.16,41,173.47,537.06
+535,2023-10-04,West,Small Business,Clothing,57.73,104.51,20,455.71,479.89
+536,2024-11-06,West,Small Business,Furniture,11.61,18.76,44,146.84,167.76
+537,2024-01-29,South,Home Office,Electronics,81.71,138.33,19,447.96,627.82
+538,2024-04-01,East,Small Business,Electronics,36.48,48.41,20,301.73,-63.13
+539,2023-07-11,East,Corporate,Electronics,92.07,119.53,35,422.82,538.28
+540,2024-11-19,North,Small Business,Electronics,97.08,149.46,47,370.78,2091.08
+541,2023-04-09,North,Consumer,Electronics,26.69,47.08,2,363.51,-322.73
+542,2024-07-01,North,Small Business,Clothing,51.59,81.14,30,195.96,690.54
+543,2023-04-06,North,Home Office,Clothing,10.11,11.42,34,155.25,-110.71
+544,2024-10-25,East,Consumer,Food,63.85,120.15,22,144.9,1093.7
+545,2024-10-24,West,Consumer,Electronics,64.66,74.89,3,435.74,-405.05
+546,2023-07-09,West,Consumer,Furniture,32.28,63.28,6,419.19,-233.19
+547,2023-02-06,South,Home Office,Electronics,60.26,67.65,15,248.26,-137.41
+548,2024-01-04,West,Corporate,Clothing,30.3,52.27,27,109.58,483.61
+549,2024-11-25,East,Small Business,Electronics,24.47,28.73,10,222.01,-179.41
+550,2024-06-08,East,Consumer,Clothing,68.64,131.76,9,328.7,239.38
+551,2023-10-06,East,Consumer,Food,39.33,59.7,33,254.48,417.73
+552,2023-08-05,South,Consumer,Food,63.12,77.24,32,401.09,50.75
+553,2023-09-30,North,Corporate,Food,48.99,68.92,48,498.93,457.71
+554,2023-03-03,West,Corporate,Clothing,98.59,123.07,6,136.01,10.87
+555,2024-08-18,East,Home Office,Electronics,23.46,29.41,41,256.84,-12.89
+556,2024-12-29,East,Corporate,Electronics,51.81,101.2,36,243.94,1534.1
+557,2023-12-08,North,Small Business,Furniture,71.24,106.91,2,187.02,-115.68
+558,2024-02-01,East,Home Office,Clothing,45.6,82.53,29,139.14,931.83
+559,2024-11-29,West,Home Office,Furniture,97.72,163.74,4,79.56,184.52
+560,2023-01-19,South,Small Business,Food,74.97,128.11,1,449.2,-396.06
+561,2023-06-26,East,Small Business,Electronics,69.13,84.24,19,238.93,48.16
+562,2024-09-03,West,Small Business,Clothing,78.14,102.42,26,273.6,357.68
+563,2024-01-31,East,Home Office,Furniture,95.74,173.11,25,462.62,1471.63
+564,2024-03-20,North,Home Office,Furniture,91.7,180.99,10,399.33,493.57
+565,2023-08-21,East,Home Office,Furniture,75.19,100.48,15,108.73,270.62
+566,2023-03-17,East,Small Business,Electronics,77.42,104.08,22,304.44,282.08
+567,2023-09-22,South,Small Business,Electronics,23.13,35.29,48,249.01,334.67
+568,2024-03-30,North,Consumer,Electronics,19.25,38.22,21,408.74,-10.37
+569,2024-12-18,North,Corporate,Clothing,61.38,82.38,22,375.9,86.1
+570,2024-01-19,South,Consumer,Electronics,11.65,17.08,36,360.68,-165.2
+571,2024-07-17,East,Small Business,Clothing,53.41,101.6,34,203.25,1435.21
+572,2024-05-20,West,Home Office,Furniture,28.93,31.9,30,412.23,-323.13
+573,2024-01-02,North,Small Business,Furniture,41.14,46.73,25,73.58,66.17
+574,2023-05-24,North,Corporate,Food,79.82,131.2,45,121.83,2190.27
+575,2023-03-10,East,Consumer,Electronics,94.71,181.53,28,201.03,2229.93
+576,2023-04-09,East,Consumer,Furniture,16.52,21.72,1,84.56,-79.36
+577,2024-01-31,North,Home Office,Electronics,58.08,88.44,49,155.75,1331.89
+578,2023-01-25,East,Consumer,Clothing,89.43,134.63,45,423.57,1610.43
+579,2024-04-13,West,Consumer,Furniture,17.43,26.59,4,476.71,-440.07
+580,2024-04-28,North,Small Business,Electronics,84.21,139.81,7,187.07,202.13
+581,2024-07-18,West,Consumer,Furniture,42.2,64.26,49,169.03,911.91
+582,2023-05-31,West,Consumer,Furniture,38.99,58.59,9,175.95,0.45
+583,2023-05-24,East,Consumer,Electronics,97.97,149.59,36,174.97,1683.35
+584,2024-07-22,West,Home Office,Furniture,28.08,45.82,19,66.17,270.89
+585,2023-02-08,East,Home Office,Furniture,72.39,114.62,1,467.11,-424.88
+586,2023-04-19,South,Small Business,Furniture,83.93,156.84,10,146.16,582.94
+587,2024-11-23,East,Consumer,Furniture,13.71,15.69,36,239.0,-167.72
+588,2023-02-11,West,Home Office,Clothing,70.33,130.11,9,54.36,483.66
+589,2023-07-05,South,Home Office,Furniture,95.64,177.85,45,436.08,3263.37
+590,2024-02-02,East,Small Business,Food,21.18,28.73,46,379.02,-31.72
+591,2023-08-11,West,Corporate,Furniture,90.66,137.49,42,476.04,1490.82
+592,2024-09-25,North,Consumer,Electronics,63.53,94.96,32,401.73,604.03
+593,2023-05-13,North,Home Office,Food,65.49,84.92,32,191.17,430.59
+594,2023-06-12,East,Small Business,Clothing,65.16,94.95,6,161.54,17.2
+595,2023-08-03,East,Small Business,Food,36.9,42.06,48,363.97,-116.29
+596,2023-08-23,North,Small Business,Food,94.17,127.13,38,213.85,1038.63
+597,2024-10-19,West,Home Office,Food,95.26,174.8,17,304.8,1047.38
+598,2024-08-10,West,Consumer,Electronics,66.28,89.88,10,52.82,183.18
+599,2023-01-09,West,Corporate,Electronics,80.51,147.85,27,77.85,1740.33
+600,2023-03-15,East,Consumer,Electronics,65.1,102.76,35,290.92,1027.18
+601,2024-05-06,South,Small Business,Clothing,53.6,101.4,21,304.73,699.07
+602,2023-09-10,South,Small Business,Electronics,69.47,112.35,25,388.15,683.85
+603,2023-08-18,South,Corporate,Electronics,59.77,67.34,28,109.38,102.58
+604,2024-06-02,South,Consumer,Food,63.77,108.91,47,280.93,1840.65
+605,2023-06-23,South,Small Business,Electronics,80.54,91.85,15,137.5,32.15
+606,2024-10-14,East,Small Business,Furniture,53.28,80.22,4,91.94,15.82
+607,2023-06-17,East,Consumer,Electronics,13.67,26.47,29,234.72,136.48
+608,2023-06-19,South,Small Business,Clothing,24.76,30.92,9,123.5,-68.06
+609,2024-01-28,East,Consumer,Clothing,49.47,71.78,27,149.8,452.57
+610,2024-09-25,East,Small Business,Furniture,75.23,132.17,26,192.9,1287.54
+611,2023-07-13,South,Consumer,Clothing,63.4,120.08,19,166.72,910.2
+612,2024-05-31,West,Corporate,Clothing,68.53,116.76,28,89.42,1261.02
+613,2023-01-29,East,Small Business,Food,53.14,70.8,17,90.46,209.76
+614,2023-06-14,West,Corporate,Furniture,65.42,111.68,43,136.96,1852.22
+615,2024-02-26,East,Small Business,Food,39.61,54.15,41,72.75,523.39
+616,2023-12-05,East,Small Business,Food,52.32,91.38,42,331.91,1308.61
+617,2024-10-09,South,Home Office,Electronics,76.99,150.79,20,179.3,1296.7
+618,2024-05-10,East,Consumer,Furniture,88.46,154.74,45,175.89,2806.71
+619,2023-12-31,North,Corporate,Electronics,49.03,92.01,40,199.4,1519.8
+620,2023-12-08,North,Corporate,Electronics,13.93,15.35,39,348.26,-292.88
+621,2024-05-14,South,Corporate,Food,24.55,42.86,49,441.79,455.4
+622,2024-10-18,West,Consumer,Clothing,11.88,21.94,23,391.59,-160.21
+623,2024-05-25,West,Home Office,Furniture,68.79,78.18,47,377.39,63.94
+624,2023-11-23,West,Corporate,Clothing,39.91,75.21,32,267.98,861.62
+625,2023-08-05,North,Consumer,Food,58.82,78.29,47,362.21,552.88
+626,2023-10-28,West,Small Business,Food,54.39,92.4,33,298.74,955.59
+627,2023-05-12,West,Corporate,Food,17.34,31.56,46,147.31,506.81
+628,2023-03-11,South,Corporate,Food,46.29,78.53,5,143.86,17.34
+629,2023-09-09,West,Home Office,Food,29.85,35.31,43,183.38,51.4
+630,2024-02-19,North,Corporate,Food,47.66,78.0,48,459.86,996.46
+631,2024-03-20,North,Corporate,Clothing,28.32,45.16,34,296.34,276.22
+632,2023-07-01,North,Small Business,Electronics,85.64,163.6,40,380.26,2738.14
+633,2023-06-16,South,Consumer,Clothing,25.68,37.59,11,205.95,-74.94
+634,2023-04-01,South,Consumer,Furniture,96.47,133.99,3,233.47,-120.91
+635,2024-12-14,East,Home Office,Clothing,47.43,84.18,33,106.5,1106.25
+636,2024-06-14,West,Small Business,Food,86.16,126.78,11,127.08,319.74
+637,2023-02-08,South,Consumer,Clothing,66.59,111.97,16,422.31,303.77
+638,2023-05-06,North,Small Business,Electronics,76.18,128.12,18,313.18,621.74
+639,2024-03-26,North,Consumer,Furniture,79.1,150.23,30,201.89,1932.01
+640,2023-06-22,South,Small Business,Clothing,55.44,90.86,48,411.28,1288.88
+641,2024-10-14,South,Home Office,Electronics,58.9,91.41,10,160.93,164.17
+642,2023-08-08,South,Corporate,Clothing,56.26,68.92,18,489.21,-261.33
+643,2024-09-29,East,Home Office,Furniture,62.93,75.78,38,205.17,283.13
+644,2023-02-27,North,Consumer,Clothing,12.65,15.67,19,201.79,-144.41
+645,2024-10-21,East,Home Office,Food,45.6,57.21,36,190.36,227.6
+646,2024-04-20,East,Corporate,Clothing,64.56,108.08,13,104.95,460.81
+647,2024-03-31,West,Home Office,Electronics,63.8,112.73,46,100.01,2150.77
+648,2023-12-27,North,Consumer,Clothing,81.37,128.32,3,341.65,-200.8
+649,2023-01-01,North,Consumer,Electronics,68.95,127.29,10,443.8,139.6
+650,2024-01-22,South,Home Office,Furniture,99.29,197.8,38,405.73,3337.65
+651,2023-12-14,South,Corporate,Clothing,35.55,65.34,1,113.5,-83.71
+652,2023-07-09,West,Home Office,Furniture,42.32,73.02,27,295.51,533.39
+653,2024-05-19,East,Corporate,Furniture,44.55,70.36,46,97.52,1089.74
+654,2023-07-10,South,Small Business,Clothing,51.92,78.09,8,70.38,138.98
+655,2024-05-22,South,Corporate,Electronics,85.24,100.24,46,345.37,344.63
+656,2024-01-04,North,Small Business,Furniture,31.22,45.56,42,290.82,311.46
+657,2024-02-13,North,Home Office,Furniture,79.84,153.22,17,86.91,1160.55
+658,2023-04-27,South,Corporate,Clothing,46.48,84.93,9,65.72,280.33
+659,2023-05-14,North,Small Business,Clothing,64.17,83.06,6,495.39,-382.05
+660,2023-02-27,West,Small Business,Clothing,66.93,101.73,43,63.51,1432.89
+661,2024-07-09,South,Small Business,Clothing,43.56,79.93,25,250.04,659.21
+662,2024-11-15,North,Consumer,Clothing,56.14,65.16,39,277.08,74.7
+663,2024-11-02,West,Home Office,Food,47.17,68.33,49,102.78,934.06
+664,2023-06-22,North,Small Business,Clothing,16.22,30.28,28,126.08,267.6
+665,2023-05-29,North,Corporate,Electronics,49.34,72.21,33,208.31,546.4
+666,2023-03-21,North,Small Business,Furniture,18.77,21.96,37,392.75,-274.72
+667,2023-08-01,South,Consumer,Electronics,46.45,73.78,9,278.19,-32.22
+668,2023-07-22,East,Home Office,Electronics,63.36,118.84,18,337.06,661.58
+669,2023-08-17,North,Consumer,Food,62.15,101.38,21,493.33,330.5
+670,2024-11-06,West,Consumer,Clothing,69.64,90.79,2,395.6,-353.3
+671,2023-08-15,South,Consumer,Furniture,18.57,26.85,43,245.46,110.58
+672,2024-10-20,South,Corporate,Electronics,68.69,103.39,38,250.9,1067.7
+673,2024-06-15,West,Home Office,Clothing,38.09,61.76,40,328.45,618.35
+674,2024-03-16,North,Home Office,Clothing,45.91,81.88,36,349.41,945.51
+675,2024-02-06,East,Corporate,Food,87.22,103.7,43,275.32,433.32
+676,2023-02-16,North,Home Office,Food,10.81,20.55,37,340.19,20.19
+677,2023-08-21,West,Consumer,Food,62.96,69.95,15,60.59,44.26
+678,2023-11-01,South,Home Office,Furniture,63.88,91.54,28,243.33,531.15
+679,2024-06-09,East,Corporate,Electronics,45.7,51.4,18,175.52,-72.92
+680,2023-05-23,South,Consumer,Food,31.33,45.54,34,108.13,375.01
+681,2024-02-19,West,Corporate,Food,31.12,48.96,22,94.8,297.68
+682,2024-05-27,North,Small Business,Food,89.53,139.71,11,321.44,230.54
+683,2024-01-08,East,Consumer,Electronics,49.78,62.18,13,285.62,-124.42
+684,2024-07-19,South,Consumer,Electronics,39.78,66.88,4,164.11,-55.71
+685,2023-09-16,South,Home Office,Food,50.39,57.46,22,261.93,-106.39
+686,2024-10-17,South,Consumer,Food,70.25,125.45,7,271.5,114.9
+687,2024-04-15,North,Corporate,Clothing,23.12,45.13,43,137.75,808.68
+688,2023-01-12,East,Home Office,Food,50.45,70.92,24,343.44,147.84
+689,2023-11-26,North,Small Business,Furniture,62.91,98.49,4,401.41,-259.09
+690,2023-12-24,North,Corporate,Furniture,95.37,137.43,28,406.16,771.52
+691,2024-02-12,North,Small Business,Food,32.73,36.2,15,321.11,-269.06
+692,2024-10-29,West,Small Business,Electronics,42.33,61.26,1,280.24,-261.31
+693,2024-01-08,West,Small Business,Clothing,44.14,80.01,3,77.45,30.16
+694,2023-01-08,West,Consumer,Electronics,64.5,105.55,14,179.52,395.18
+695,2023-05-02,East,Corporate,Food,42.11,50.16,38,91.97,213.93
+696,2023-12-14,North,Corporate,Furniture,58.02,108.06,1,483.72,-433.68
+697,2024-11-06,North,Consumer,Clothing,80.36,126.81,38,110.79,1654.31
+698,2023-03-31,West,Home Office,Electronics,73.48,136.49,38,118.3,2276.08
+699,2024-10-09,North,Small Business,Electronics,50.17,81.39,21,450.31,205.31
+700,2024-11-28,North,Corporate,Food,87.78,140.77,48,474.77,2068.75
+701,2023-11-12,South,Consumer,Clothing,60.23,71.96,29,394.62,-54.45
+702,2023-06-27,North,Small Business,Furniture,58.59,73.27,5,52.43,20.97
+703,2024-06-23,South,Home Office,Food,13.08,25.83,49,50.61,574.14
+704,2023-02-10,North,Home Office,Clothing,98.8,129.0,10,220.15,81.85
+705,2024-12-04,East,Small Business,Electronics,21.07,41.71,28,114.53,463.39
+706,2024-05-16,West,Home Office,Food,30.8,48.62,21,58.27,315.95
+707,2023-05-25,South,Corporate,Electronics,14.65,17.91,7,258.83,-236.01
+708,2023-07-20,West,Corporate,Electronics,67.6,80.4,3,474.38,-435.98
+709,2024-12-24,South,Corporate,Food,30.22,38.92,45,195.72,195.78
+710,2024-04-05,South,Home Office,Food,26.2,50.65,47,347.51,801.64
+711,2024-07-11,South,Corporate,Food,17.97,26.47,20,343.51,-173.51
+712,2024-06-30,East,Consumer,Food,19.3,28.1,19,162.99,4.21
+713,2023-09-10,North,Corporate,Food,62.62,86.53,35,342.69,494.16
+714,2024-01-25,South,Corporate,Electronics,71.94,88.66,4,145.55,-78.67
+715,2024-08-16,East,Home Office,Furniture,45.76,70.43,5,104.9,18.45
+716,2023-09-13,South,Corporate,Furniture,53.19,64.73,1,365.62,-354.08
+717,2024-12-09,North,Small Business,Food,71.74,132.86,4,101.05,143.43
+718,2024-03-25,South,Consumer,Electronics,11.56,16.57,12,498.61,-438.49
+719,2023-01-10,East,Home Office,Furniture,39.08,56.17,27,132.55,328.88
+720,2023-08-30,North,Consumer,Furniture,97.58,148.97,42,317.36,1841.02
+721,2023-09-08,East,Small Business,Furniture,62.21,93.3,23,235.12,479.95
+722,2023-01-05,North,Home Office,Electronics,32.88,65.61,25,106.87,711.38
+723,2023-04-29,North,Home Office,Food,56.96,90.61,21,62.53,644.12
+724,2024-01-09,West,Corporate,Food,40.84,48.17,24,330.23,-154.31
+725,2023-03-06,West,Consumer,Food,57.9,95.31,25,413.04,522.21
+726,2023-05-26,West,Small Business,Clothing,21.32,26.36,45,428.91,-202.11
+727,2023-08-12,North,Small Business,Clothing,21.94,24.74,46,267.22,-138.42
+728,2023-08-27,South,Home Office,Clothing,22.92,45.24,32,399.85,314.39
+729,2023-06-26,East,Corporate,Electronics,94.58,169.88,32,352.78,2056.82
+730,2023-10-09,East,Home Office,Furniture,75.96,150.56,5,375.91,-2.91
+731,2023-03-04,East,Home Office,Furniture,24.61,37.66,36,271.67,198.13
+732,2023-08-05,West,Home Office,Electronics,26.95,42.55,46,335.04,382.56
+733,2024-11-19,North,Home Office,Electronics,75.77,94.83,42,412.49,388.03
+734,2024-04-05,West,Small Business,Food,24.05,31.8,49,229.05,150.7
+735,2024-09-01,South,Small Business,Food,31.11,57.7,42,412.69,704.09
+736,2023-04-15,North,Home Office,Clothing,96.7,137.37,39,316.41,1269.72
+737,2023-04-09,East,Home Office,Clothing,32.98,60.82,16,124.66,320.78
+738,2024-05-25,West,Corporate,Electronics,69.55,120.89,33,61.11,1633.11
+739,2024-01-20,West,Home Office,Clothing,98.08,123.53,49,213.24,1033.81
+740,2024-02-09,South,Small Business,Furniture,43.69,68.01,21,296.01,214.71
+741,2024-06-01,South,Consumer,Electronics,11.58,19.8,9,427.92,-353.94
+742,2024-04-20,West,Small Business,Electronics,31.97,41.93,6,107.37,-47.61
+743,2024-12-09,South,Corporate,Furniture,84.78,156.64,45,410.09,2823.61
+744,2024-10-06,East,Small Business,Food,87.81,139.65,35,438.35,1376.05
+745,2024-03-12,South,Consumer,Food,79.17,98.86,39,117.81,650.1
+746,2023-01-23,South,Home Office,Furniture,20.18,32.79,22,433.22,-155.8
+747,2024-07-18,West,Consumer,Furniture,81.6,163.18,41,496.15,2848.63
+748,2024-11-07,West,Home Office,Clothing,92.68,114.5,5,377.08,-267.98
+749,2024-12-14,North,Home Office,Electronics,64.05,117.54,42,403.15,1843.43
+750,2024-04-02,North,Small Business,Clothing,94.68,121.81,23,497.49,126.5
+751,2023-03-24,West,Small Business,Furniture,84.42,152.31,17,322.47,831.66
+752,2023-05-25,South,Small Business,Clothing,70.03,123.33,12,188.55,451.05
+753,2023-03-26,South,Corporate,Furniture,61.95,84.9,23,426.89,100.96
+754,2023-03-19,North,Small Business,Clothing,41.37,57.64,16,326.52,-66.2
+755,2024-04-01,North,Corporate,Clothing,24.34,44.13,3,311.54,-252.17
+756,2023-01-01,North,Small Business,Food,64.45,97.66,30,164.14,832.16
+757,2023-02-20,East,Home Office,Furniture,38.63,67.9,22,390.35,253.59
+758,2024-11-15,East,Corporate,Clothing,87.98,108.5,9,86.75,97.93
+759,2024-12-17,North,Consumer,Electronics,99.4,185.61,29,465.93,2034.16
+760,2024-03-21,South,Corporate,Clothing,77.72,135.22,47,196.62,2505.88
+761,2024-03-24,North,Corporate,Clothing,18.14,34.76,37,107.5,507.44
+762,2024-05-02,East,Consumer,Electronics,35.98,43.86,23,249.06,-67.82
+763,2023-02-03,South,Corporate,Furniture,19.82,32.38,13,69.11,94.17
+764,2023-12-14,East,Home Office,Food,68.55,112.37,32,358.08,1044.16
+765,2023-04-05,South,Small Business,Food,78.87,111.85,46,456.22,1060.86
+766,2023-03-13,East,Consumer,Food,93.31,141.14,47,426.77,1821.24
+767,2024-07-04,South,Small Business,Electronics,49.44,56.07,48,107.32,210.92
+768,2023-06-03,South,Home Office,Clothing,91.12,161.4,23,106.82,1509.62
+769,2023-09-07,South,Consumer,Furniture,89.01,141.92,45,416.05,1964.9
+770,2024-11-04,South,Small Business,Clothing,38.55,44.41,17,465.91,-366.29
+771,2024-03-13,West,Small Business,Food,88.2,151.06,40,257.3,2257.1
+772,2023-04-28,East,Home Office,Clothing,43.81,66.6,21,274.54,204.05
+773,2023-11-02,East,Small Business,Electronics,36.72,41.53,2,193.22,-183.6
+774,2023-09-25,West,Home Office,Electronics,68.42,134.97,37,452.42,2009.93
+775,2023-02-23,South,Corporate,Furniture,39.55,77.29,6,340.21,-113.77
+776,2023-08-24,South,Home Office,Furniture,66.72,104.19,44,179.71,1468.97
+777,2024-01-24,East,Corporate,Food,64.88,76.84,18,184.45,30.83
+778,2024-02-05,West,Consumer,Furniture,60.71,108.01,30,451.04,967.96
+779,2024-09-15,South,Small Business,Clothing,44.24,68.25,22,56.14,472.08
+780,2023-10-30,South,Home Office,Electronics,59.36,81.45,33,195.23,533.74
+781,2023-07-26,South,Home Office,Electronics,63.68,98.21,30,299.46,736.44
+782,2023-08-17,North,Small Business,Electronics,59.11,92.81,17,116.7,456.2
+783,2024-07-31,West,Small Business,Furniture,50.0,80.32,43,91.44,1212.32
+784,2023-03-16,South,Consumer,Electronics,11.32,16.95,32,416.87,-236.71
+785,2024-03-10,North,Consumer,Electronics,62.84,103.38,42,452.48,1250.2
+786,2023-04-13,West,Home Office,Electronics,25.16,48.48,14,420.62,-94.14
+787,2024-02-26,South,Consumer,Food,67.83,96.73,10,454.45,-165.45
+788,2024-12-04,East,Corporate,Food,78.34,137.34,47,298.9,2474.1
+789,2023-11-02,North,Consumer,Furniture,55.04,104.85,36,415.52,1377.64
+790,2023-04-08,North,Consumer,Electronics,58.81,88.83,34,222.82,797.86
+791,2023-12-01,South,Home Office,Furniture,95.63,143.36,9,349.82,79.75
+792,2024-03-10,South,Corporate,Electronics,86.25,141.61,42,494.98,1830.14
+793,2024-03-22,North,Consumer,Electronics,92.28,150.63,28,151.58,1482.22
+794,2023-11-04,East,Corporate,Electronics,83.24,151.99,11,225.45,530.8
+795,2023-09-06,East,Corporate,Furniture,19.8,30.27,14,266.02,-119.44
+796,2023-06-15,West,Corporate,Furniture,23.41,46.74,39,112.11,797.76
+797,2024-04-25,South,Small Business,Electronics,57.4,66.21,47,86.47,327.6
+798,2023-12-01,East,Small Business,Clothing,32.15,35.46,19,423.38,-360.49
+799,2024-06-25,West,Small Business,Furniture,52.9,88.67,15,489.56,46.99
+800,2023-04-16,East,Small Business,Food,45.49,62.26,28,232.13,237.43
+801,2024-07-16,South,Home Office,Furniture,59.45,78.26,24,89.44,362.0
+802,2023-03-22,West,Consumer,Electronics,77.22,106.62,8,79.62,155.58
+803,2023-05-13,West,Small Business,Clothing,74.39,98.97,43,451.09,605.85
+804,2023-05-18,West,Home Office,Electronics,56.91,64.18,9,258.72,-193.29
+805,2023-07-03,East,Consumer,Food,84.02,165.89,47,194.01,3653.88
+806,2024-02-05,South,Small Business,Furniture,48.78,63.35,33,264.41,216.4
+807,2023-11-26,West,Consumer,Furniture,90.7,159.69,33,193.24,2083.43
+808,2024-05-22,North,Small Business,Electronics,16.42,29.33,19,270.07,-24.78
+809,2023-03-10,South,Home Office,Electronics,95.92,185.73,3,436.8,-167.37
+810,2024-06-29,North,Corporate,Food,68.92,77.71,10,316.54,-228.64
+811,2023-02-22,North,Corporate,Clothing,44.21,83.33,40,362.59,1202.21
+812,2024-03-25,West,Consumer,Food,27.74,43.68,47,214.1,535.08
+813,2023-07-24,West,Home Office,Clothing,53.13,88.69,42,382.33,1111.19
+814,2023-05-06,East,Corporate,Furniture,27.51,46.22,1,349.98,-331.27
+815,2023-02-12,East,Small Business,Clothing,24.97,45.89,29,103.8,502.88
+816,2023-04-21,East,Corporate,Clothing,65.56,91.79,34,307.69,584.13
+817,2024-10-24,South,Consumer,Furniture,57.08,100.45,13,165.53,398.28
+818,2023-07-02,East,Consumer,Furniture,70.31,110.79,1,411.84,-371.36
+819,2023-04-05,North,Home Office,Furniture,93.66,169.9,34,241.67,2350.49
+820,2024-01-09,East,Consumer,Food,57.9,115.31,29,497.61,1167.28
+821,2024-06-03,West,Corporate,Furniture,62.28,79.75,48,91.63,746.93
+822,2023-12-26,East,Corporate,Electronics,18.07,36.05,47,401.16,443.9
+823,2024-11-26,South,Corporate,Furniture,74.59,88.08,13,353.17,-177.8
+824,2023-10-08,South,Corporate,Furniture,45.99,50.68,48,395.37,-170.25
+825,2023-07-14,North,Home Office,Furniture,97.91,111.59,49,188.39,481.93
+826,2023-07-14,South,Small Business,Clothing,84.09,118.37,29,271.42,722.7
+827,2024-10-28,East,Small Business,Food,57.02,95.2,39,408.43,1080.59
+828,2023-04-03,West,Home Office,Furniture,21.09,24.51,24,154.64,-72.56
+829,2024-11-02,South,Consumer,Food,87.35,96.53,26,151.71,86.97
+830,2023-03-02,North,Small Business,Electronics,81.98,159.32,17,297.97,1016.81
+831,2024-09-25,East,Consumer,Electronics,26.61,48.96,7,285.6,-129.15
+832,2023-02-20,North,Small Business,Furniture,36.58,66.88,13,177.02,216.88
+833,2024-02-07,South,Consumer,Electronics,81.41,154.35,5,184.13,180.57
+834,2023-01-05,South,Home Office,Food,26.67,46.14,26,175.03,331.19
+835,2024-04-10,North,Corporate,Clothing,92.6,110.56,49,397.18,482.86
+836,2024-08-26,East,Consumer,Furniture,48.21,70.35,3,343.36,-276.94
+837,2024-11-12,South,Corporate,Electronics,17.83,31.22,7,424.59,-330.86
+838,2024-06-17,West,Consumer,Food,83.42,112.81,49,488.96,951.15
+839,2024-02-09,South,Consumer,Food,43.62,74.97,39,263.37,959.28
+840,2024-05-27,East,Consumer,Electronics,57.38,64.38,1,80.01,-73.01
+841,2024-10-06,South,Consumer,Food,20.11,27.66,49,71.64,298.31
+842,2023-08-21,North,Consumer,Food,10.23,16.31,17,183.05,-79.69
+843,2024-06-07,South,Corporate,Furniture,67.42,112.52,43,469.65,1469.65
+844,2023-12-12,South,Consumer,Food,56.37,91.28,25,285.45,587.3
+845,2023-02-15,East,Corporate,Electronics,63.42,109.59,3,172.3,-33.79
+846,2024-06-29,North,Home Office,Furniture,81.44,90.03,15,229.63,-100.78
+847,2023-03-19,East,Small Business,Electronics,68.19,81.2,29,319.37,57.92
+848,2024-12-30,South,Consumer,Clothing,25.73,48.43,43,343.83,632.27
+849,2023-03-14,West,Small Business,Electronics,42.47,72.78,32,119.26,850.66
+850,2023-09-06,South,Corporate,Electronics,91.53,109.99,26,489.66,-9.7
+851,2023-02-16,East,Home Office,Furniture,79.3,147.33,16,295.15,793.33
+852,2023-05-01,West,Home Office,Food,60.1,79.21,25,111.06,366.69
+853,2023-08-02,East,Home Office,Electronics,33.01,50.52,28,452.14,38.14
+854,2023-08-27,East,Small Business,Furniture,37.19,45.77,9,83.59,-6.37
+855,2023-02-25,North,Corporate,Clothing,75.88,131.96,1,458.48,-402.4
+856,2023-12-16,West,Consumer,Furniture,86.61,147.25,29,498.45,1260.11
+857,2023-04-17,South,Consumer,Furniture,70.43,90.85,22,365.19,84.05
+858,2023-02-17,East,Corporate,Food,82.86,155.53,16,396.7,766.02
+859,2024-07-26,South,Small Business,Electronics,79.0,115.43,41,201.79,1291.84
+860,2023-12-03,North,Consumer,Clothing,23.47,32.0,44,473.71,-98.39
+861,2023-01-26,North,Corporate,Furniture,48.16,59.58,41,288.37,179.85
+862,2023-09-14,West,Consumer,Electronics,23.77,31.84,7,379.57,-323.08
+863,2023-01-08,North,Home Office,Electronics,31.17,34.9,14,465.85,-413.63
+864,2024-09-16,North,Consumer,Furniture,88.23,143.37,29,488.83,1110.23
+865,2023-09-10,South,Small Business,Electronics,52.56,97.66,19,424.94,431.96
+866,2024-11-22,North,Corporate,Furniture,58.18,92.74,19,186.36,470.28
+867,2024-12-19,North,Small Business,Furniture,26.06,33.81,2,484.95,-469.45
+868,2023-10-30,East,Corporate,Furniture,38.1,43.06,41,332.65,-129.29
+869,2024-09-30,North,Home Office,Clothing,30.72,39.73,45,468.79,-63.34
+870,2023-02-25,East,Corporate,Furniture,28.56,42.11,15,354.25,-151.0
+871,2024-12-26,North,Consumer,Food,67.42,120.25,3,188.26,-29.77
+872,2024-06-09,North,Consumer,Electronics,33.12,42.03,11,216.51,-118.5
+873,2024-04-18,West,Home Office,Clothing,66.88,116.89,46,297.71,2002.75
+874,2023-01-28,West,Corporate,Electronics,15.26,28.69,30,405.51,-2.61
+875,2023-03-19,East,Home Office,Clothing,22.76,34.33,40,193.09,269.71
+876,2023-08-04,North,Consumer,Food,34.71,63.84,18,310.88,213.46
+877,2024-01-21,South,Small Business,Clothing,63.73,101.92,48,205.53,1627.59
+878,2023-12-31,West,Home Office,Clothing,70.83,118.53,2,417.1,-321.7
+879,2024-10-27,South,Small Business,Clothing,49.84,78.43,32,260.03,654.85
+880,2024-06-09,West,Small Business,Electronics,50.12,76.02,8,84.53,122.67
+881,2024-11-29,West,Corporate,Furniture,75.21,98.61,22,124.72,390.08
+882,2023-11-08,North,Home Office,Electronics,11.42,15.68,6,77.5,-51.94
+883,2023-01-07,West,Small Business,Furniture,40.7,55.39,12,274.69,-98.41
+884,2023-01-03,South,Small Business,Electronics,83.68,134.47,47,97.85,2289.28
+885,2024-09-14,West,Corporate,Food,64.29,77.66,40,101.36,433.44
+886,2023-12-29,East,Corporate,Food,40.35,77.68,36,473.47,870.41
+887,2024-05-22,North,Consumer,Clothing,91.5,160.0,15,442.69,584.81
+888,2023-10-01,North,Small Business,Food,79.54,116.23,28,253.44,773.88
+889,2024-05-20,East,Consumer,Clothing,33.84,42.06,49,493.61,-90.83
+890,2023-01-15,East,Small Business,Furniture,68.08,128.93,45,50.08,2688.17
+891,2023-07-11,East,Consumer,Food,63.62,117.15,18,326.29,637.25
+892,2024-09-22,West,Corporate,Furniture,46.11,80.67,2,327.39,-258.27
+893,2024-04-29,North,Home Office,Electronics,43.03,57.85,13,255.85,-63.19
+894,2023-01-28,East,Corporate,Furniture,40.92,59.83,45,228.63,622.32
+895,2024-12-14,West,Consumer,Electronics,65.54,78.15,15,254.92,-65.77
+896,2023-02-08,East,Consumer,Furniture,49.82,63.28,20,236.73,32.47
+897,2023-09-30,South,Home Office,Furniture,84.87,153.17,29,378.72,1601.98
+898,2023-08-19,South,Small Business,Food,70.26,122.5,42,110.91,2083.17
+899,2023-03-27,North,Consumer,Furniture,16.29,26.62,29,138.94,160.63
+900,2024-04-18,West,Consumer,Food,67.62,128.89,3,131.23,52.58
+901,2023-05-06,South,Consumer,Food,34.4,55.9,19,168.11,240.39
+902,2024-06-20,South,Home Office,Clothing,63.35,96.31,3,286.37,-187.49
+903,2023-05-25,West,Corporate,Clothing,71.21,100.15,14,100.04,305.12
+904,2024-06-08,East,Consumer,Electronics,30.77,59.89,40,440.68,724.12
+905,2023-07-31,West,Home Office,Furniture,51.12,60.04,4,183.81,-148.13
+906,2023-01-25,East,Consumer,Electronics,27.13,52.57,11,123.14,156.7
+907,2024-08-02,South,Small Business,Furniture,14.71,27.13,31,354.03,30.99
+908,2024-01-29,South,Home Office,Clothing,44.06,53.62,43,67.14,343.94
+909,2023-03-08,South,Consumer,Clothing,42.66,68.62,32,328.99,501.73
+910,2023-08-21,North,Home Office,Furniture,99.59,187.22,27,364.19,2001.82
+911,2023-04-19,North,Consumer,Furniture,50.17,81.01,30,146.71,778.49
+912,2023-05-26,North,Corporate,Clothing,40.02,76.7,43,68.88,1508.36
+913,2023-04-21,West,Consumer,Clothing,62.24,121.29,2,213.64,-95.54
+914,2023-08-16,South,Home Office,Electronics,17.99,26.63,49,94.37,328.99
+915,2023-04-21,South,Small Business,Clothing,96.55,138.99,9,102.42,279.54
+916,2024-04-14,West,Small Business,Furniture,67.15,130.45,28,164.42,1607.98
+917,2023-02-03,North,Small Business,Electronics,77.94,133.09,31,182.96,1526.69
+918,2024-09-14,West,Consumer,Furniture,25.34,30.52,34,288.49,-112.37
+919,2024-01-04,North,Corporate,Food,46.85,53.32,15,355.28,-258.23
+920,2024-08-17,South,Consumer,Electronics,48.04,77.26,48,316.75,1085.81
+921,2024-07-07,East,Small Business,Furniture,83.96,162.64,25,116.76,1850.24
+922,2024-02-29,North,Home Office,Clothing,10.11,18.8,36,127.44,185.4
+923,2024-09-04,South,Small Business,Food,37.08,63.34,8,445.45,-235.37
+924,2024-06-01,South,Home Office,Furniture,98.31,120.45,9,301.26,-102.0
+925,2024-11-22,East,Corporate,Electronics,52.74,70.08,37,441.47,200.11
+926,2023-10-09,South,Home Office,Furniture,44.43,83.88,48,217.2,1676.4
+927,2023-11-16,South,Consumer,Food,20.78,26.28,45,326.48,-78.98
+928,2024-03-18,North,Consumer,Electronics,97.67,131.91,39,285.65,1049.71
+929,2023-11-11,North,Consumer,Food,11.8,14.36,32,193.61,-111.69
+930,2024-01-12,East,Home Office,Furniture,76.35,130.44,17,261.46,658.07
+931,2023-10-16,East,Consumer,Clothing,79.17,154.35,35,276.12,2355.18
+932,2024-03-12,South,Consumer,Clothing,31.93,42.85,37,140.35,263.69
+933,2024-10-23,North,Consumer,Furniture,70.44,107.62,19,191.75,514.67
+934,2023-10-04,East,Corporate,Furniture,18.36,30.68,44,406.13,135.95
+935,2024-12-10,East,Home Office,Furniture,33.13,66.24,29,462.1,498.09
+936,2024-08-04,West,Home Office,Electronics,80.91,96.63,7,211.91,-101.87
+937,2024-05-17,East,Small Business,Food,87.82,136.01,28,188.14,1161.18
+938,2024-09-15,South,Home Office,Food,64.76,93.68,9,137.84,122.44
+939,2024-05-30,North,Corporate,Food,55.62,104.52,28,355.32,1013.88
+940,2023-12-16,East,Home Office,Furniture,24.34,37.2,6,195.39,-118.23
+941,2024-03-21,West,Corporate,Food,15.68,18.81,29,494.49,-403.72
+942,2023-12-16,North,Corporate,Furniture,20.59,34.41,17,196.56,38.38
+943,2024-08-29,East,Home Office,Electronics,30.46,54.64,16,227.36,159.52
+944,2024-10-25,West,Small Business,Clothing,40.75,44.93,23,321.5,-225.36
+945,2023-05-17,East,Consumer,Furniture,44.28,82.94,31,410.76,787.7
+946,2023-08-31,North,Consumer,Furniture,41.17,52.18,3,261.28,-228.25
+947,2024-06-26,North,Home Office,Clothing,31.51,50.32,21,240.2,154.81
+948,2023-02-09,North,Home Office,Clothing,55.88,82.38,26,498.04,190.96
+949,2023-08-17,South,Corporate,Electronics,84.28,147.3,36,54.72,2214.0
+950,2024-07-01,East,Home Office,Food,35.17,50.44,42,452.78,188.56
+951,2023-08-11,South,Corporate,Furniture,94.81,178.51,37,117.11,2979.79
+952,2023-01-06,North,Small Business,Food,88.6,155.71,22,403.67,1072.75
+953,2023-11-18,West,Home Office,Furniture,24.56,41.33,42,328.07,376.27
+954,2024-04-12,East,Consumer,Electronics,80.76,146.71,12,203.83,587.57
+955,2023-03-16,South,Consumer,Clothing,61.71,109.76,42,443.24,1574.86
+956,2023-01-04,East,Home Office,Electronics,60.99,69.06,13,55.81,49.1
+957,2024-10-07,West,Corporate,Clothing,45.19,65.76,11,152.01,74.26
+958,2023-04-28,South,Consumer,Food,55.1,106.77,16,305.1,521.62
+959,2024-08-28,North,Corporate,Food,45.75,55.5,8,208.19,-130.19
+960,2024-05-18,South,Home Office,Electronics,58.58,103.3,40,324.67,1464.13
+961,2024-07-27,East,Home Office,Clothing,66.52,131.52,40,60.85,2539.15
+962,2024-03-16,East,Consumer,Electronics,70.69,81.08,45,102.41,365.14
+963,2023-07-13,East,Home Office,Clothing,57.92,99.27,2,107.19,-24.49
+964,2024-12-15,East,Small Business,Clothing,74.93,113.99,30,135.18,1036.62
+965,2024-01-27,North,Small Business,Food,22.72,36.83,30,256.7,166.6
+966,2023-01-26,South,Consumer,Food,29.08,34.22,12,388.46,-326.78
+967,2024-03-10,North,Small Business,Clothing,83.69,95.3,10,457.49,-341.39
+968,2023-06-22,North,Corporate,Clothing,39.03,66.36,44,425.92,776.6
+969,2023-10-27,North,Consumer,Clothing,12.06,22.2,11,138.6,-27.06
+970,2024-10-06,East,Consumer,Food,23.84,43.0,15,248.52,38.88
+971,2023-11-22,East,Corporate,Food,30.13,47.89,16,139.74,144.42
+972,2024-02-14,East,Small Business,Furniture,96.16,114.42,17,169.01,141.41
+973,2023-04-28,South,Small Business,Clothing,61.57,105.85,26,276.6,874.68
+974,2024-12-24,West,Small Business,Furniture,93.95,123.8,2,80.65,-20.95
+975,2023-08-13,East,Consumer,Clothing,61.76,118.58,12,148.18,533.66
+976,2024-06-15,South,Consumer,Food,53.14,98.54,26,470.92,709.48
+977,2023-04-23,East,Small Business,Furniture,38.24,66.48,23,259.75,389.77
+978,2023-05-20,East,Home Office,Furniture,64.57,126.17,18,250.42,858.38
+979,2024-07-12,North,Small Business,Electronics,22.53,25.42,32,56.56,35.92
+980,2023-01-01,North,Corporate,Clothing,90.84,160.11,49,161.33,3232.9
+981,2023-03-31,North,Consumer,Food,84.64,118.26,38,439.83,837.73
+982,2024-10-15,South,Corporate,Electronics,38.58,73.9,47,124.08,1535.96
+983,2023-11-16,West,Corporate,Electronics,95.75,128.31,3,236.81,-139.13
+984,2024-07-03,West,Consumer,Clothing,84.27,147.67,38,56.45,2352.75
+985,2023-05-19,South,Home Office,Electronics,69.97,132.24,3,265.25,-78.44
+986,2024-05-25,East,Small Business,Clothing,20.96,23.84,30,59.46,26.94
+987,2023-09-16,South,Corporate,Electronics,53.04,77.33,1,418.82,-394.53
+988,2024-11-03,East,Consumer,Clothing,55.55,99.22,30,421.18,888.92
+989,2024-11-20,South,Corporate,Food,30.93,46.69,45,404.48,304.72
+990,2023-01-10,South,Small Business,Clothing,17.2,23.06,32,177.51,10.01
+991,2023-09-18,South,Home Office,Clothing,79.91,103.71,28,426.76,239.64
+992,2024-10-11,West,Home Office,Furniture,20.98,25.56,21,294.35,-198.17
+993,2023-06-21,North,Home Office,Food,63.49,118.82,46,218.21,2326.97
+994,2023-01-13,South,Consumer,Food,94.28,152.53,13,331.4,425.85
+995,2023-06-17,West,Consumer,Food,88.85,103.84,27,55.55,349.18
+996,2024-10-03,North,Home Office,Electronics,35.0,50.55,36,114.33,445.47
+997,2024-08-18,North,Small Business,Furniture,86.63,123.96,7,384.03,-122.72
+998,2023-11-17,South,Small Business,Food,10.03,12.67,22,159.87,-101.79
+999,2023-11-15,East,Consumer,Electronics,11.59,17.29,10,319.1,-262.1
+1000,2024-09-04,East,Home Office,Electronics,64.23,89.85,39,223.3,775.88
