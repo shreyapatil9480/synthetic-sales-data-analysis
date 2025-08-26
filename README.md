@@ -78,4 +78,8 @@ This project is released under the MIT License. Feel free to use, modify, and sh
 
 ## Author
 
+
 This project was created by an aspiring Business Analyst/Program Manager/Data Analyst seeking to demonstrate analytical skills.
+## Contributing
+
+Contributions are welcome! If you have ideas for improving the dataset, analysis, or models, feel free to fork the repository, create a feature branch, and submit a pull request.
